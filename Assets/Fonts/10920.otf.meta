@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c0cf883b88b28f549b4956c0cbfa2948
+timeCreated: 1512303880
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Story Brush(RUS BY LYAJKA)
+  fontNames:
+  - Story Brush(RUS BY LYAJKA)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
