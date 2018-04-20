@@ -26,12 +26,14 @@ Look at this sign **"You're going to DIEEE"**. This is scary, isn't it?  C:
 
 # Enemy
 Here is our **Crawler**
+
 ![](https://i.imgur.com/4uENsn2.png)
 Scary, isn't it? When you play with lightning turned off and only flashlight can light your path, it looks more scary. 
 
 Crawler just running very fast passing his checkpoints, and when he see player, his speed slows down and coming to hit player.
 
 Here you can see his **path** (yellow line).
+
 ![](https://i.imgur.com/jSfR5KH.png)
 
  
